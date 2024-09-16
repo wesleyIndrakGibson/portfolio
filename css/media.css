@@ -1,0 +1,211 @@
+/*
+  wirn
+  Banerjee_Atri Dashboard build with Bootstrap v4+ Author: baseClass technologies private limited
+  Template.	
+
+  * Bootstrap v4.3.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors
+  * Copyright 2011-2019 Twitter, Inc.
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+*/
+
+
+
+
+@media all and (-ms-high-contrast:none),(-ms-high-contrast:active) {
+  
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	
+}
+
+@media (min-width:1200px) {
+  .ftco-section.goto-here .container{ /*max-width: 1160px;*/ /*+180*/}
+
+   
+
+} /* end of resolution 1200 min */
+
+
+@media (min-width:992px) {
+  .ftco-section.goto-here .container{ /*max-width: 980px;*/ /*+180*/}
+
+   
+
+} /* end of resolution 992 min */
+
+@media (min-width:768px) {
+  .ftco-section.goto-here .container{ /*max-width: 800px;*/ /*+180*/}
+	
+
+} /* end of resolution 768 min */
+
+
+@media (max-width:1920px) {
+
+	
+} /* end of resolution 1920 */
+
+@media (max-width:1899px) {
+
+	   
+
+} /* end of resolution 1899 */
+
+@media (max-width:1699px) {
+
+	
+
+} /* end of resolution 1699 */
+
+@media (max-width:1599px) {
+  .ftco-section{ padding: 1.5em 0;}
+
+	   
+
+} /* end of resolution 1599 */
+
+@media (max-width:1499px) {
+  .mouse{ bottom: 15px; top: auto;}
+
+    
+} /* end of resolution 1499 */
+
+@media (max-width:1399px) {    
+	
+	
+
+} /* end of resolution 1399 */
+
+@media (max-width:1299px) {
+
+	
+	
+} /* end of resolution 1299 */
+
+@media (max-width:1199px) {
+  .ftco-footer .ftco-footer-widget{ padding-left:2.5rem; margin-left: 2.5rem;}
+  .progress-wrap h3{ font-size: 14px;}
+  .progress-bar span{ top: -27px; font-size: 13px;}
+	
+
+} /* end of resolution 1199 */
+
+@media (max-width:1099px) {
+  .ftco-about .img-about .img{ background-size: cover; background-color: #acb3cd;}
+
+	
+
+} /* end of resolution 1099 */
+
+@media (max-width:991px) {
+  .slider-text h1{ font-size: 45px;}
+  .slider-text h2{ font-size: 25px;}
+  .ftco-about .img-about .img{ background-size: 175% auto; background-color: #acb3cd; background-position: center bottom;}
+  .progress-circle .progress{ width: 100px; height: 100px;}
+  .progress-circle .progress .progress-value{ right: 0; bottom: 0;}
+  .progress-circle .progress::after{ right: 0; bottom: 0;}
+  .ftco-about ul.about-info li{ flex-direction: column!important;}
+  .ftco-about ul.about-info li span,
+  .ftco-about ul.about-info li span:first-child{ width: 100%;}
+  .progress{ height: 20px;}
+  .progress-wrap{ position: relative;}
+  .progress-wrap h3{ font-size: 14px;}
+  .progress-bar span{ position: inherit; right: auto; top: auto; left: auto; bottom: auto; margin: auto; font-size: 12px; color: #FFFFFF;}
+  .progress-bar:after{ display: none;}
+  .progress-circle .progress .progress-value .h2{ font-size: 1.3rem;}
+  .progress-circle .progress .progress-value .h2 .small{ font-size: 65%;}
+  .progress-circle .bg-white{ padding: 1.5rem 0.3rem !important;}
+  .progress-circle .bg-white .row .h4{ font-size: 1rem;}
+  .progress-circle .bg-white .row .small{ font-size: 75%;}
+  .progress-circle .bg-white .h5{ font-size: 16px;}
+  .ftco-section{ padding: 2.5em 0;}
+  .ftco-section.ftco-project .container-fluid .row,
+  .ftco-section.ftco-project .container .row
+  .ftco-section.ftco-services .container-fluid .row,
+  .ftco-section.ftco-services .container .row{ margin-top:1rem !important; padding-top: 1rem !important;}
+  
+  
+
+	
+
+} /* end of resolution 991 */
+
+@media (max-width:767px) {
+  .ftco-about .img-about .img{ height: 565px;}
+  .ftco-about .img-about .img{ background-size: cover; background-color: #acb3cd; }
+  .ftco-section.ftco-partner{ display: none !important; opacity: 0 !important; height: 0 !important; padding: 0 !important; margin: 0 !important; width: 0 !important; visibility: hidden !important;}
+  .ftco-section{ padding: 1.5em 0;}
+  /*
+  .ftco-section.goto-here #navi{ position: relative; top: 0;}
+  .ftco-section.goto-here #navi li{ display: inline-block; width: auto; padding: 0 15px;}
+  */
+  .ftco-section.goto-here #navi{ display: none !important; opacity: 0 !important; height: 0 !important; padding: 0 !important; margin: 0 !important; width: 0 !important; visibility: hidden !important;}
+  .ftco-section.goto-here .page{ margin-bottom: 2em;}
+  .ftco-about ul.about-info li{ flex-direction: row!important;}
+  
+
+} /* end of resolution 767 */
+
+
+@media (max-width:599px) {
+  .ftco-about ul.about-info li{ flex-direction: row!important;}
+
+	
+
+} /* end of resolution 599 */
+
+@media (max-width:499px) {
+  .ftco-about ul.about-info li{ flex-direction: column!important;}
+  .ftco-about ul.about-info li span:first-child{ display: inline-block; width: 100%;}
+  .ftco-about ul.about-info li span{ display: inline-block; width: 100%;}
+  .btn.btn-primary{ padding: 1rem !important;}
+  
+
+	
+
+} /* end of resolution 499 */
+
+@media (max-width:399px) {
+  .slider-text h1{ font-size: 25px;}
+  .slider-text h2{ font-size: 15px;}
+  .ftco-about .img-about .img{ background-size: cover;}
+  .resume-wrap{ flex-direction: column!important;}
+  .resume-wrap .text{ width: 100%;}
+  .resume-wrap .icon{ margin-left: 1rem; margin-bottom: 1rem;}
+  .resume-wrap h5,
+  .resume-wrap .position{ font-size: 1rem;}
+  .resume-wrap h2{ font-size: 16px;}
+  .resume-wrap .text p{ font-size: 15px;}
+  .ftco-hireme h2{ font-size: 24px;}
+  .ftco-footer .ftco-footer-widget ul li a span{ font-size: 15px;}
+  .ftco-footer .ftco-footer-widget{ padding-left:0.5rem; margin-left: 0.5rem;}
+
+
+		
+
+} /* end of resolution 399 */
+
+@media (max-width:199px) {
+
+	
+
+} /* end of resolution 199 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
